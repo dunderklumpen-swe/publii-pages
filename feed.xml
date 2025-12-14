@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>HGs - Sveriges närmsta coverband</title>
-    <link href="https://dunderklumpen-swe.github.io/publii-pages/feed.xml" rel="self" />
-    <link href="https://dunderklumpen-swe.github.io/publii-pages" />
+    <link href="https://www.hgmusik.se/feed.xml" rel="self" />
+    <link href="https://www.hgmusik.se" />
     <updated>2025-12-14T19:19:42+01:00</updated>
     <author>
         <name>Henrik Esping</name>
     </author>
-    <id>https://dunderklumpen-swe.github.io/publii-pages</id>
+    <id>https://www.hgmusik.se</id>
 
     <entry>
         <title>SPF Sankt Olof</title>
         <author>
             <name>Henrik Esping</name>
         </author>
-        <link href="https://dunderklumpen-swe.github.io/publii-pages/spf-sankt-olof/"/>
-        <id>https://dunderklumpen-swe.github.io/publii-pages/spf-sankt-olof/</id>
+        <link href="https://www.hgmusik.se/spf-sankt-olof/"/>
+        <id>https://www.hgmusik.se/spf-sankt-olof/</id>
             <category term="Spelningar"/>
 
         <updated>2025-12-14T19:19:32+01:00</updated>
@@ -35,8 +35,8 @@
         <author>
             <name>Henrik Esping</name>
         </author>
-        <link href="https://dunderklumpen-swe.github.io/publii-pages/quiz-trelleborg/"/>
-        <id>https://dunderklumpen-swe.github.io/publii-pages/quiz-trelleborg/</id>
+        <link href="https://www.hgmusik.se/quiz-trelleborg/"/>
+        <id>https://www.hgmusik.se/quiz-trelleborg/</id>
             <category term="Spelningar"/>
 
         <updated>2025-12-14T18:43:02+01:00</updated>

@@ -2,17 +2,17 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "HGs - Sveriges närmsta coverband",
     "description": "",
-    "home_page_url": "https://dunderklumpen-swe.github.io/publii-pages",
-    "feed_url": "https://dunderklumpen-swe.github.io/publii-pages/feed.json",
+    "home_page_url": "https://www.hgmusik.se",
+    "feed_url": "https://www.hgmusik.se/feed.json",
     "user_comment": "",
-    "icon": "https://dunderklumpen-swe.github.io/publii-pages/media/website/HGs-rund.png",
+    "icon": "https://www.hgmusik.se/media/website/HGs-rund.png",
     "author": {
         "name": "Henrik Esping"
     },
     "items": [
         {
-            "id": "https://dunderklumpen-swe.github.io/publii-pages/spf-sankt-olof/",
-            "url": "https://dunderklumpen-swe.github.io/publii-pages/spf-sankt-olof/",
+            "id": "https://www.hgmusik.se/spf-sankt-olof/",
+            "url": "https://www.hgmusik.se/spf-sankt-olof/",
             "title": "SPF Sankt Olof",
             "summary": "Den 13:e februari gästar vi SPF i Sankt Olof för en förhoppningsvis mycket trevlig kväll!",
             "content_html": "<p>Den 13:e februari gästar vi SPF i Sankt Olof för en förhoppningsvis mycket trevlig kväll!</p>",
@@ -26,8 +26,8 @@
             "date_modified": "2025-12-14T19:19:42+01:00"
         },
         {
-            "id": "https://dunderklumpen-swe.github.io/publii-pages/quiz-trelleborg/",
-            "url": "https://dunderklumpen-swe.github.io/publii-pages/quiz-trelleborg/",
+            "id": "https://www.hgmusik.se/quiz-trelleborg/",
+            "url": "https://www.hgmusik.se/quiz-trelleborg/",
             "title": "Quiz, Trelleborg",
             "summary": "Den 11:e december spelar vi på Systrar och Bönor i Trelleborg! Det blir en hejdundrande kväll med quiz och allsång! Mer info finns hos Systrar och Bönor på FaceBook och Instagram Instagram",
             "content_html": "<p>Den 11:e december spelar vi på Systrar och Bönor i Trelleborg! Det blir en hejdundrande kväll med quiz och allsång!</p>\n<p>Mer info finns hos Systrar och Bönor på FaceBook och Instagram</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"500\" height=\"498\" style=\"border: none; overflow: hidden;\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FSystrarochBonor%2Fposts%2Fpfbid02iVMwp5kXYFJUTwTNt1KCNhQdooZwztUg4WyNb4Lh4jVKtePx9vjtFJoNuXsEK8QLl&amp;show_text=false&amp;width=500\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\"></iframe></div>\n<p><a href=\"https://www.instagram.com/p/DQ8tkWBjJkv/?utm_source=ig_web_button_share_sheet&amp;igsh=MzRlODBiNWFlZA==\" target=\"_blank\" rel=\"noopener noreferrer\"></a><a href=\"https://www.instagram.com/p/DQ8tkWBjJkv/?utm_source=ig_web_button_share_sheet&amp;igsh=MzRlODBiNWFlZA==\" target=\"_blank\" rel=\"noopener noreferrer\">Instagram</a></p>",

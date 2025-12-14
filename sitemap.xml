@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://dunderklumpen-swe.github.io/publii-pages/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://www.hgmusik.se/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://dunderklumpen-swe.github.io/publii-pages/</loc>
+<loc>https://www.hgmusik.se/</loc>
 </url>
 <url>
-<loc>https://dunderklumpen-swe.github.io/publii-pages/quiz-trelleborg/</loc>
+<loc>https://www.hgmusik.se/quiz-trelleborg/</loc>
 <lastmod>2025-12-14T19:18:12+01:00</lastmod>
 </url>
 <url>
-<loc>https://dunderklumpen-swe.github.io/publii-pages/spf-sankt-olof/</loc>
+<loc>https://www.hgmusik.se/spf-sankt-olof/</loc>
 <lastmod>2025-12-14T19:19:42+01:00</lastmod>
 </url>
 <url>
-<loc>https://dunderklumpen-swe.github.io/publii-pages/vad-vill-vi/galleri/</loc>
+<loc>https://www.hgmusik.se/vad-vill-vi/galleri/</loc>
 </url>
 <url>
-<loc>https://dunderklumpen-swe.github.io/publii-pages/vad-vill-vi/hoer-av-dig-sa-hittar-vi-pa-nagot/</loc>
+<loc>https://www.hgmusik.se/vad-vill-vi/hoer-av-dig-sa-hittar-vi-pa-nagot/</loc>
 </url>
 <url>
-<loc>https://dunderklumpen-swe.github.io/publii-pages/vad-vill-vi/rutin-saknas-det-inte/</loc>
+<loc>https://www.hgmusik.se/vad-vill-vi/rutin-saknas-det-inte/</loc>
 </url>
 <url>
-<loc>https://dunderklumpen-swe.github.io/publii-pages/vad-vill-vi/spelningar/</loc>
+<loc>https://www.hgmusik.se/vad-vill-vi/spelningar/</loc>
 </url>
 </urlset>
