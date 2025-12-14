@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>HGs - Sveriges närmsta coverband</title>
+    <link href="https://dunderklumpen-swe.github.io/publii-pages/feed.xml" rel="self" />
+    <link href="https://dunderklumpen-swe.github.io/publii-pages" />
+    <updated>2025-12-14T19:19:42+01:00</updated>
+    <author>
+        <name>Henrik Esping</name>
+    </author>
+    <id>https://dunderklumpen-swe.github.io/publii-pages</id>
+
+    <entry>
+        <title>SPF Sankt Olof</title>
+        <author>
+            <name>Henrik Esping</name>
+        </author>
+        <link href="https://dunderklumpen-swe.github.io/publii-pages/spf-sankt-olof/"/>
+        <id>https://dunderklumpen-swe.github.io/publii-pages/spf-sankt-olof/</id>
+            <category term="Spelningar"/>
+
+        <updated>2025-12-14T19:19:32+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Den 13:e februari gästar vi SPF i Sankt Olof för en förhoppningsvis mycket trevlig kväll!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Den 13:e februari gästar vi SPF i Sankt Olof för en förhoppningsvis mycket trevlig kväll!</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Quiz, Trelleborg</title>
+        <author>
+            <name>Henrik Esping</name>
+        </author>
+        <link href="https://dunderklumpen-swe.github.io/publii-pages/quiz-trelleborg/"/>
+        <id>https://dunderklumpen-swe.github.io/publii-pages/quiz-trelleborg/</id>
+            <category term="Spelningar"/>
+
+        <updated>2025-12-14T18:43:02+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Den 11:e december spelar vi på Systrar och Bönor i Trelleborg! Det blir en hejdundrande kväll med quiz och allsång! Mer info finns hos Systrar och Bönor på FaceBook och Instagram Instagram
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Den 11:e december spelar vi på Systrar och Bönor i Trelleborg! Det blir en hejdundrande kväll med quiz och allsång!</p>
+<p>Mer info finns hos Systrar och Bönor på FaceBook och Instagram</p>
+<div class="post__iframe"><iframe loading="lazy" width="500" height="498" style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FSystrarochBonor%2Fposts%2Fpfbid02iVMwp5kXYFJUTwTNt1KCNhQdooZwztUg4WyNb4Lh4jVKtePx9vjtFJoNuXsEK8QLl&amp;show_text=false&amp;width=500" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe></div>
+<p><a href="https://www.instagram.com/p/DQ8tkWBjJkv/?utm_source=ig_web_button_share_sheet&amp;igsh=MzRlODBiNWFlZA==" target="_blank" rel="noopener noreferrer"></a><a href="https://www.instagram.com/p/DQ8tkWBjJkv/?utm_source=ig_web_button_share_sheet&amp;igsh=MzRlODBiNWFlZA==" target="_blank" rel="noopener noreferrer">Instagram</a></p>
+            ]]>
+        </content>
+    </entry>
+</feed>
